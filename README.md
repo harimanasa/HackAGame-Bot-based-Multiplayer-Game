@@ -9,6 +9,11 @@ All you need is: you having friends.
 Here's a sample for you:
 
 
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/3wwrsmjg7iQ" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+</video>
+
 
 <img width="718" alt="Screen Shot 2019-11-16 at 5 53 34 PM" src="https://user-images.githubusercontent.com/5762548/69002983-2027ce00-08af-11ea-92c8-d8345c27f516.png">
 
