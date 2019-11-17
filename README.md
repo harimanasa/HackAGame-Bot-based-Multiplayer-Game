@@ -16,4 +16,4 @@ Here's a sample for you:
 
 Technologies used:
 1. NodeJS
-2. Facebook messenger bot setup
+2. Facebook messenger bot
