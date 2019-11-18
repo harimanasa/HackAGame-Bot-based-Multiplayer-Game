@@ -11,6 +11,9 @@ All you need is: you having friends.
 4. webhook
 5. ngrok
 
+A multiplayer game developed in Facebook San Francisco Hackathon 2019. 
+Developer: Manasa Hari
+Team: #16
 
 Here's a sample for you:
 
