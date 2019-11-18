@@ -14,6 +14,7 @@ All you need is: you having friends.
 A multiplayer game developed in Facebook San Francisco Hackathon 2019. 
 Developer: Manasa Hari
 Team: #16
+Other team members: Nachiket Trivedi, Alaukika Diwanji, Susane Zell.
 
 Here's a sample for you:
 
