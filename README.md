@@ -1,4 +1,4 @@
-# Silly-Billy-Multiplayer-Game
+# HackAGame-Multiplayer-Game
 A multiplayer game:
 
 You're alone in your home and you are missing your friends. You have got nothing much to talk about.
